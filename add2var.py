@@ -1,4 +1,4 @@
-a, b = 4, 8
+a, b = 9, 8
 print("value assigned to a")
 print(a)
 print("value assigned to b")
